@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ayodele-destiny
-- 👀 I’m interested in design
-- 🌱 I’m currently learning uiux and 3d
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+About me
+I'm a brand identity and product designer with a little over a year of experience. I currently intern at Lenco as a product marketing intern as well as being a part of their product design team. 
 
-<!---
-ayodele-destiny/ayodele-destiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm also a part of ovalay academy where we help people get into tech by offering in demand courses for them
